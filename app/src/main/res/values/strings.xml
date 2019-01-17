@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Faça Mais</string>
+    <string name="instructions">Pressione o botao para a proxima piada!</string>
+    <string name="button_text">Conte uma piada!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
