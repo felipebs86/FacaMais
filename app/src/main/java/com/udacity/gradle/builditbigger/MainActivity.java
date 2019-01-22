@@ -36,7 +36,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void tellJoke(View view) {
-        new FetchJokeTask().execute();
+        FetchJokeTask fetchJokeTask = new FetchJokeTask(view.getContext());
+        fetchJokeTask.execute();
     }
 
 
